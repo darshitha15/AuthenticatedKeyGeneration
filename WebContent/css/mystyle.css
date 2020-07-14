@@ -1,0 +1,126 @@
+body{
+	
+ background-color: #FFD9FF;
+}
+.headfont
+{
+	color:white;
+	font-size: 30px;
+	font-weight: bold;
+    font-family: Comic Sans MS;
+}
+.head
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width:1365px;
+	height:50px;
+	background-color: #FF00FF;
+}
+.key
+{
+	
+	font-size: 40px;
+	font-weight: bold;
+    font-family: Comic Sans MS;
+}
+.button 
+{
+	width:150px;
+	height:30px;
+	background-color: #6699FF;
+	border-radius: 25px;
+}
+.link
+{
+	text-decoration: none;
+	color:white;
+	font-weight: bold;
+   font-size: 20px;
+	
+}
+.pos1
+{   
+	position: absolute;
+	top:70px;
+	left:100px;
+}
+.pos2
+{   
+	position: absolute;
+	top:70px;
+	left:600px;
+}
+.pos3
+{   
+	position: absolute;
+	top:70px;
+	right:100px;
+}
+.apos1
+{
+    position: absolute;
+	top:70px;
+	left:50px;	
+}
+.apos2
+{
+    position: absolute;
+	top:70px;
+	left:320px;	
+}
+.apos3
+{
+    position: absolute;
+	top:70px;
+	left:600px;	
+}
+.apos4
+{
+    position: absolute;
+	top:70px;
+	right:320px;	
+}
+.apos5
+{
+    position: absolute;
+	top:70px;
+	right:275px;	
+}
+.apos6
+{
+    position: absolute;
+	top:70px;
+	right:50px;	
+}
+.upos1
+{
+	position: absolute;
+	top:70px;
+	left:70px;
+}
+.upos2
+{
+	position: absolute;
+	top:70px;
+	left:330px;
+}
+.upos3
+{
+	position: absolute;
+	top:70px;
+	left:600px;
+}
+.upos4
+{
+	position: absolute;
+	top:70px;
+	right:330px;
+}
+.upos5
+{
+	position: absolute;
+	top:70px;
+	right:70px;
+}

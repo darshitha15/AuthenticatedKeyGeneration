@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name>upload</servlet-name>
+<servlet-class>action.Uplaod</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>upload</servlet-name>
+<url-pattern>/upload</url-pattern>
+</servlet-mapping>
+</web-app>
