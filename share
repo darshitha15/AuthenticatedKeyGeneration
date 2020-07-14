@@ -1,0 +1,25 @@
+drop database share;
+create database share;
+use share;
+
+create table user
+(
+uid int(255) NOT NULL AUTO_INCREMENT primary key,
+name varchar(255),
+email varchar(255),
+pass varchar(255),
+ip varchar(255),
+port varchar(255),
+ukey varchar(255)
+);
+
+create table files(
+fid int(255) NOT NULL AUTO_INCREMENT primary key,
+uid int(255),
+email varchar(255),
+fname varchar(255),
+skey varchar(255),
+skey2 varchar(255),
+file text,
+datee datetime
+);
